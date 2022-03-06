@@ -1,7 +1,7 @@
  
 
 
-> Open this page at [https://hsa40-jp.github.io/poker-solitaire//](https://hsa40-jp.github.io/poker-solitaire/)
+> Open this page at [https://hsa40-jp.github.io/poker-solitaire/](https://hsa40-jp.github.io/poker-solitaire/)
 
 ## Use as Extension
 
