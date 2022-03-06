@@ -1,0 +1,25 @@
+{
+    "name": "Poker solitaire",
+    "version": "1.0.0",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "hw---samd51": "*"
+    },
+    "files": [
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.8.22",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj",
+    "languageRestriction": "javascript-only"
+}
