@@ -1,7 +1,7 @@
  
 
 
-> Open this page at [https://shiba-jp.github.io/poker-solitaire/](https://shiba-jp.github.io/poker-solitaire/)
+> Open this page at [https://hsa40-jp.github.io/poker-solitaire//](https://hsa40-jp.github.io/poker-solitaire/)
 
 ## Use as Extension
 
@@ -10,22 +10,19 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://arcade.makecode.com/](https://arcade.makecode.com/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/shiba-jp/poker-solitaire** and import
+* search for **https://github.com/hsa40-jp/poker-solitaire** and import
 
-## Edit this project ![Build status badge](https://github.com/shiba-jp/poker-solitaire/workflows/MakeCode/badge.svg)
+## Edit this project ![Build status badge](https://github.com/hsa40-jp/poker-solitaire/workflows/MakeCode/badge.svg)
 
 To edit this repository in MakeCode.
 
 * open [https://arcade.makecode.com/](https://arcade.makecode.com/)
 * click on **Import** then click on **Import URL**
-* paste **https://github.com/shiba-jp/poker-solitaire** and click import
+* paste **https://github.com/hsa40-jp/poker-solitaire** and click import
 
 ## Blocks preview
 
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
-
-![A rendered view of the blocks](https://github.com/shiba-jp/poker-solitaire/raw/master/.github/makecode/blocks.png)
+No blocks are used in this project.
 
 #### Metadata (used for search, rendering)
 
@@ -55,10 +52,7 @@ MakeCode でこのリポジトリを編集します。
 
 ## ブロックのプレビュー
 
-この画像はマスター内の最後のコミットからのブロックコードを示しています。
-このイメージは更新に数分かかる場合があります。
-
-![生成されたブロック](https://github.com/hsa40-jp/poker-solitaire/raw/master/.github/makecode/blocks.png)
+このプロジェクトではブロックは使用されていません。
 
 #### メタデータ (検索、レンダリングに使用)
 
